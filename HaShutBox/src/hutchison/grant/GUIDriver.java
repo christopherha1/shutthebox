@@ -10,6 +10,7 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
 public class GUIDriver extends Application {
+	//Hello
 
 	Die d1 = new Die();
 	Die d2 = new Die();
